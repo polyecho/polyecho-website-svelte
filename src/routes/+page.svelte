@@ -60,8 +60,6 @@
 	}
 
 	:global(body) {
-		background-color: #02140f;
-		color: #17e8b7;
 		font-size: 14px;
 	}
 

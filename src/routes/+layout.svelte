@@ -26,7 +26,8 @@
 
 <style lang="scss">
 	:global(body) {
-		background-color: black;
+		background-color: #02140f;
+		color: #17e8b7;
 		height: 100vh;
 		margin: 0;
 		padding: 0;

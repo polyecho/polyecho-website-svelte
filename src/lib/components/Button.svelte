@@ -8,20 +8,24 @@
 </a>
 
 <style lang="scss">
-	.wrapper {
-		margin: 0px 11px 0px 0px;
+	a {
+		text-decoration: none;
 	}
 
-	img {
-		height: 42px;
-		width: 42px;
+	.wrapper {
+		margin-right: 13px;
 
-		transform: scale(1);
-		transition: 0.25s ease-in-out;
-		transition-property: transform;
+		img {
+			height: 42px;
+			width: 42px;
 
-		&:hover {
-			transform: scale(1.15);
+			transform: scale(1);
+			transition: 0.3s ease-in-out;
+			transition-property: transform;
+
+			&:hover {
+				transform: scale(1.2);
+			}
 		}
 	}
 </style>
