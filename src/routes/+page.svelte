@@ -71,6 +71,10 @@
 		align-items: center;
 		justify-content: center;
 		height: 100vh;
+
+		.inner-wrapper {
+			margin-bottom: 20px;
+		}
 	}
 
 	h1 {
