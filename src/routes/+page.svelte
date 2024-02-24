@@ -35,7 +35,7 @@
 <div class="wrapper">
 	<div class="inner-wrapper">
 		<img alt="logo" class="logo" src={MainLogo} />
-		<h1 class="section">Hey! It's Echo</h1>
+		<h1 class="section">Hey! It's Echo.</h1>
 		<p class="section-end">There's nothing much but feel free to take a look!</p>
 		{#each buttons as button}
 			<Button logo={button.logo} url={button.url} />
