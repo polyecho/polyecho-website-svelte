@@ -20,6 +20,7 @@
 	<meta name="twitter:image" content="{base}/images/thumbnail.png" />
 	<meta name="twitter:card" content="summary_large_image" />
 
+	<link rel="icon" href="{base}/favicon.png" type="image/png" />
 	<link rel="apple-touch-icon" href="{base}/images/logo192.png" />
 </svelte:head>
 <slot />
